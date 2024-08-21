@@ -6,6 +6,7 @@ import { GlobalStyles } from './GlobalStyles';
 import Header from '../UI/Header/header';
 import Preloader from '../UI/Preloader/preloader';
 import { useState } from 'react';
+import '../../app/globals.css' 
 
 const CornerGradient = styled.div`
   position: fixed;
@@ -32,7 +33,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
       >
         <GlobalStyles />
         <Preloader setComplete={setComplete} />
-        <CornerGradient />
+        {/* <CornerGradient /> */}
         <div className={complete ? 'complete' : 'not_complete'}>
           <Header />
           {children}
