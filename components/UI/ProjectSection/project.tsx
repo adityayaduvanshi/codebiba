@@ -7,9 +7,9 @@ import { projectItems } from "./constants";
 
 const ProjectSection = () => {
   return (
-    <section className=" py-36 bg-black">
+    <section className="py-72 bg-black">
       <div className="container mx-auto px-2">
-      <h2 className="text-4xl font-bold text-white text-center mb-8">What We’ve Built</h2>
+      <h2 className="text-4xl font-bold text-white text-center mb-8 text-[4rem]">What We’ve Built</h2>
         <div className="grid grid-cols-4 md:grid-cols-5 gap-4 md:gap-4 py-14">
           {projectItems.map((item, index) => (
             <WobbleCard 

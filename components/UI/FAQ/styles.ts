@@ -16,7 +16,7 @@ export const Inner = styled.div`
 
   h1 {
     max-width: 56rem;
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 400;
   }
 

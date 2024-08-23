@@ -12,7 +12,7 @@ const ServiceSection = () => {
   return (
     <section className=" py-24 bg-black">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-white text-center mb-8">We Offer</h2>
+        <h2 className="text-4xl font-bold text-white text-center mb-8 text-[4rem]">We Offer</h2>
         <p className="text-zinc-400 text-center mb-12 max-w-2xl mx-auto">
           Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat scelerisque in elit. Morbi rhoncus, tellus, eros consequat magna semper orci a tincidunt.
         </p>
