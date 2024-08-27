@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'CodeBiba',
-  description: 'Building the future of banking',
+  description: 'Building the future of Coding',
 };
 
 export default function RootLayout({

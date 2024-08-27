@@ -9,17 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-hover-card": "^1.1.1",
+    "@react-three/drei": "^9.111.3",
+    "@react-three/fiber": "^8.17.6",
     "@tsparticles/engine": "^3.5.0",
     "@tsparticles/react": "^3.0.0",
     "@tsparticles/slim": "^3.5.0",
+    "@types/three": "^0.167.2",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.3.29",
+    "framer-motion": "^11.3.30",
     "gsap": "^3.12.5",
     "next": "14.2.5",
+    "qss": "^3.0.0",
     "react": "^18",
     "react-dom": "^18",
+    "shadergradient": "^1.2.14",
     "styled-components": "^6.1.12",
-    "tailwind-merge": "^2.5.2"
+    "tailwind-merge": "^2.5.2",
+    "three": "^0.167.1"
   },
   "devDependencies": {
     "@types/node": "^20",

@@ -19,22 +19,22 @@ type FAQItem = {
   
   export const faqData: FAQItem[] = [
     {
-      question: 'How do I create an account with RAFT?',
+      question: 'How do I create an account with CodeBiba?',
       answer:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
     },
     {
-      question: 'How does RAFT ensure the security of my financial data?',
+      question: 'How does CodeBiba ensure the security of my financial data?',
       answer:
         'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
     },
     {
-      question: 'What types of transactions can I perform with RAFT?',
+      question: 'What types of transactions can I perform with CodeBiba?',
       answer:
         'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
     },
     {
-      question: 'What benefits does RAFT offer for wealth management?',
+      question: 'What benefits does CodeBiba offer for wealth management?',
       answer:
         'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
     },

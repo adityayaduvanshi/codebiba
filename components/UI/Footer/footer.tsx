@@ -3,11 +3,11 @@ import React from 'react'
 const Footer = () => {
   return (
     <div>
-      <footer className="bg-gradient-to-r from-[#141327] to-[#171c37] text-white py-10">
+      <footer className="bg-gradient-to-r  text-white py-10">
   <div className="container mx-auto flex justify-between">
    
     <div>
-      <h1 className="text-xl font-bold mb-4">Codebiba</h1>
+      <h1 className="text-xl font-bold mb-4">CodeBiba</h1>
       <p className="text-sm mb-8">Companies that can help you in developing your company for the future</p>
       <p className="text-xs text-gray-400">© 2024 Mangcoding. All rights reserved.</p>
     </div>
